@@ -2,7 +2,7 @@ package in.javahome.banking.controller;
 
 public class HelloController {
 	String name = "Java Home";
-	public void demo(String name) {
-		
+	public void add(int x, int y) {
+		int result = x+y;
 	}
 }
